@@ -1,0 +1,10 @@
+
+public class TestMyDate {
+
+	public static void main(String[] args) {
+		MyDate date=new MyDate(1000,12,31);
+		//System.out.print(date);
+		System.out.println(date.isValidDate(1900, 2, 29));
+	}
+
+}

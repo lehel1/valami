@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=wh9xDvJ_VFo
+
+https://docs.oracle.com/javase/tutorial/java/concepts/object.html
+http://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html#zz-1.9

@@ -1,0 +1,10 @@
+
+public class TestMyTriangle {
+
+	public static void main(String[] args) {
+		MyTriangle t1=new(1,1,1,2,2,2);
+		System.out.println(t1);
+
+	}
+
+}

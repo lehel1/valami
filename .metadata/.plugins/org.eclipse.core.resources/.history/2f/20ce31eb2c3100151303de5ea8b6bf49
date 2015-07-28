@@ -1,0 +1,11 @@
+
+public class TestMyCircle {
+
+	public static void main(String[] args){
+		
+		MyPoint p1=new MyPoint(1,1);
+		
+		//MyCircle c1=new MyCircle(1,1,1);
+		System.out.println(p1);
+	}
+}
